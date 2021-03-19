@@ -3,7 +3,7 @@
   <HelloWorld msg="Welcome to Your Vue.js App that find the closest number to zero"/>
 </template>
 
-<script lang="ts">
+<script>
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
